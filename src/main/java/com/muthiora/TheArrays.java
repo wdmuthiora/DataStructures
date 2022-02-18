@@ -199,29 +199,4 @@ public class TheArrays {
 
     //record Ball(String color){} //This only works for Java 14 and above. Record takes the burden of creating getters, fields, setters, hashCode, toString, equals implementations of POJOs
 
-//    public static void main(String[] args) {
-//        replaceNth("Vader said: No, I am your father!", 2, 'a', 'o');
-//    }
-//
-//    public static String replaceNth(String text, int n, char oldValue, char newValue){
-//
-//        //explode text to characters' array, and store it.
-//        char[] charactersExploded = text.toCharArray();
-//        StringBuilder stringBuilder= new StringBuilder(text);
-//        System.out.println(charactersExploded.length);
-//        System.out.println(stringBuilder.length());
-//
-//            //Identify the nth character from the characters' array
-//        int count = 0;
-//
-//
-//            //Identify the number of occurrences of the nth character, and store in a variable
-//
-//            //Replace the oldValue at the Nth occurrence with newValue
-//
-//            //un-explode text back to string, and return it
-//
-//            return text;
-//        }
-
 }
